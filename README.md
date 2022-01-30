@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# About this Project
+
+Follow along with Kyle over at [webdev simplified]((https://www.youtube.com/watch?v=wcVxX7lu2d4&t=415s))
+
+Quick intro on creating a codepen clone with React. Was deciding between using React or Vanilla JS for [this](https://github.com/jasterix/runner) WIP project. Right now I'm thinking JS over React but that may be due to the challenges with specific packages used
+
+#### Pros of this approach
+- Relatively quick and easy to do
+- liked the use of local storage
+
+#### Cons of this approach
+- CodeMirror was a pain to find/install. It looks like the maintainers abandaon CodeMirror2 in favor of 6?? Still not clear, but that took too much energy for a project I wanted to complete in 1 day
+- also didn't like how much was being handled by external tools. I know that's what packages are for, but this pretty much worked out of the box
+- react has changed A TON since I seriously used it (in 209). I know web tech evolves quickly but wow did I feel out of place
+- more time in the vid was spent on design vs logic (based my preferences)
+
+Even with so many cons, this project was pretty enjoyable. Kyle is a great teacher. It was clearly meant to be a quick little project with a simple approach. In that aspect, he succeeded
+
+#### Verdict
+In terms of ultimately understanding how to create a code runner, I'm not sure how helpful this was
+
+<hr>
+
+## The usual react stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
